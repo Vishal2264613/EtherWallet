@@ -12,7 +12,7 @@ Welcome to the EtherWallet repository! This project features a basic Ethereum wa
 
 ## Introduction
 
-SimpleEthereumWallet is a straightforward Ethereum wallet designed for educational purposes and basic use cases. It allows users to create and manage their own Ethereum addresses, send and receive ETH, and view transaction history. 
+This contract is a straightforward Ethereum wallet designed for educational purposes and basic use cases. It allows users to create and manage their own Ethereum addresses, send and receive ETH, and view balance. 
 
 ## Features
 
